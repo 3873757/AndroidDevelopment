@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">SimpleGame</string>
+<string name="action_settings">Settings</string>
+<string name="vol">Volume</string>
+<string name="hs">HighScore</string>
+<string name="set">BGMusic</string>
+<string name="ex">Exit</string>
+<string name="score">HighScore</string>
+<string name="play">PlayGame</string>
+</resources>
